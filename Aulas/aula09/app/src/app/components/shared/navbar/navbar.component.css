@@ -1,0 +1,16 @@
+.links {
+  margin: 10px;
+  color: #FFF;
+}
+
+.links:hover {
+  margin: 10px;
+  color: #FFF;
+  transition: .5s
+}
+
+.links:hover {
+  font-weight: bold;
+  font-size: 23px;
+
+}
